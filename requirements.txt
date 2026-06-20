@@ -1,0 +1,4 @@
+pywin32>=300
+PyQt5>=5.15
+PyInstaller>=6.0
+Pillow>=10.0

@@ -1,0 +1,21 @@
+# Build artifacts
+build_temp/
+*.exe
+*.spec
+__pycache__/
+*.pyc
+
+# Reference projects (not our code)
+github/
+
+# Archive
+archive/
+
+# IDE
+.vscode/
+.idea/
+
+# Temp files
+naming_counter.json
+*.log
+debug.log
